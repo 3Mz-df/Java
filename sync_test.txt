@@ -1,0 +1,15 @@
+[线程3-第1次-synchronized] 1783581802551
+[线程3-第2次-synchronized] 1783581802563
+[线程3-第3次-synchronized] 1783581802574
+[线程2-第1次-synchronized] 1783581802586
+[线程2-第2次-synchronized] 1783581802598
+[线程2-第3次-synchronized] 1783581802610
+[线程1-第1次-synchronized] 1783581802622
+[线程4-第1次-synchronized] 1783581802634
+[线程4-第2次-synchronized] 1783581802646
+[线程4-第3次-synchronized] 1783581802657
+[线程5-第1次-synchronized] 1783581802669
+[线程5-第2次-synchronized] 1783581802681
+[线程5-第3次-synchronized] 1783581802692
+[线程1-第2次-synchronized] 1783581802704
+[线程1-第3次-synchronized] 1783581802716
