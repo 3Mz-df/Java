@@ -7,7 +7,7 @@ public class Data {
     }
 
 //加了注释测试提交
-
+//加了注释测试提交2
 
     //静态集合
     public static final List<Person> studentList = new ArrayList<>();
