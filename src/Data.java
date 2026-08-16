@@ -6,7 +6,7 @@ public class Data {
         throw new RuntimeException("工具类不能实例化");
     }
 
-//加了注释测试提交3
+//加了注释测试提交4
 
 
     //静态集合
