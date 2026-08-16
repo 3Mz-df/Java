@@ -6,8 +6,8 @@ public class Data {
         throw new RuntimeException("工具类不能实例化");
     }
 
-//加了注释测试提交
-//加了注释测试提交2
+//加了注释测试提交3
+
 
     //静态集合
     public static final List<Person> studentList = new ArrayList<>();
